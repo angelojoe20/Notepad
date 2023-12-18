@@ -1,2 +1,2 @@
 # Notepad
-This is Notepad File, and this was made from Qt Creator and the Programming Language is C++
+The Notepad file was developed using QtCreator and it was efficient for text editing application designed to provide a simple yet functional platform such as creating, editing, and saving textual content. It embodies several key features aimed at enhancing user experience and productivity. Its user-friendly interface, essential features, and potential for future enhancements make it a valuable tool for both casual users and developers seeking a lightweight yet functional text editing application.
